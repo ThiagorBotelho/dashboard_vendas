@@ -1,0 +1,18 @@
+Curso baseado na Alura - Streamlit Construindo Dashboard Interativo
+
+Ativar ambiente virtual:
+
+1) Criando o ambiente: python -m venv venv
+
+2) Ativando o ambiente: .\venv\Scripts/activate
+
+Bibliotecas usadas:
+- streamlit (Para deixar o dashboard online)
+- requests (que permitirá a leitura dos dados a partir de uma API)
+- pandas (usada para manipular os dados coletados da API)
+- plotly (que será utilizada para construir as visualizações no dashboard)
+
+Documentação do Streamlit:
+https://docs.streamlit.io/library/api-reference
+
+Para rodar o streamlit: streamlit run Dashboard.py
